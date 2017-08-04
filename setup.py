@@ -2,7 +2,7 @@ import sys
 
 from setuptools import setup, find_packages
 
-print(sys.executable)
+print("XXX", sys.executable)
 
 
 setup(name="testpipinstall",
